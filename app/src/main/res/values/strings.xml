@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Favancha</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Zharfan Wafiq</string>
+    <string name="user_email">zharfanww@gmail.com</string>
+    <string name="example_age">26</string>
+    <string name="share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
